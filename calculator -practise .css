@@ -1,0 +1,55 @@
+.bt{
+
+color:white;
+background-color: black;
+height: 100px;
+width: 100px;
+border: 1px solid white;
+
+
+}
+
+
+h1{
+    text-align: center;
+}
+
+.card{
+    text-align: right;
+    width:500px;
+    margin-left: 300px;
+}
+
+
+#result{
+    height: 100px;
+    width: 400px;
+    color: darksalmon;
+
+}
+
+.btn{
+
+     color: white;
+     background-color: blueviolet;
+
+      height: 100px;
+    width: 100px;
+
+}
+
+
+.bt:hover{
+
+    color:black;
+    background-color:white;
+    box-shadow: 4px 4px 4px red ;
+
+
+
+    
+
+  
+
+
+}
